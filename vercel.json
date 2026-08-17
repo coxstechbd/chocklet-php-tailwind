@@ -1,0 +1,21 @@
+{
+  "rewrites": [
+    { "source": "/products", "destination": "/products.html" },
+    { "source": "/products/dark-compound-chocolate", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/dark-compound-chocolate-premium-milky-dark", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/white-compound-chocolate", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/signature-dark-chocolate", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/chocolate-icecream-coating", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/white-chocolate-spread-coating", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/dark-chocolate-chips", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/white-chocolate-chips", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/milk-chocolate-chips", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/white-chocolate-icecream-coating-standard", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/products/chocolate-spread", "destination": "/products/dark-compound-chocolate/index.html" },
+    { "source": "/about-us", "destination": "/about-us/index.html" },
+    { "source": "/categories", "destination": "/categories/index.html" },
+    { "source": "/categories/chocolate-chips", "destination": "/products.html" },
+    { "source": "/categories/spreads", "destination": "/products.html" },
+    { "source": "/coming-soon", "destination": "/coming-soon/index.html" }
+  ]
+}
